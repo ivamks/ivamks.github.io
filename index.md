@@ -1,65 +1,44 @@
-### ATIVIDADES
-Analista de sistemas: responsável pela comunicação com o usuário, ver os requisitos necessários do software, analisar problemas e melhores soluções. Documentação do software.
+## EXPERIÊNCIA
 
-Programador: responsável pela implementação e correção de erros/defeitos no sistema. Foco no desenvolvimento de  novas soluções e pôr em prática todas as necessidades impostas pelo analista de sistemas.
+#### Engebras Tecnologia Ltda ,
+São Paulo/SP — Analista Programador Android
+DESDE DE ABRIL DE 2014.
+Desenvolvedor Front-End Android Nativo, IDE de trabalho Android Studio. Framework e Ferramentas: Retrofit2, Room ORM, SQLite, MVVM Pattern, MVP Pattern, Gradle e Git.
 
-### EXPERIÊNCIA PROFISSIONAL 
-##### Analista Programador Java / Android 
-Empresa: Engebrás S/A Ind. Com. e Tecnologia de Informática (2014, em trabalho).
-Principais atividades: desenvolvimento de aplicações nativas para Android.
-Projetos Android: Talão Eletrônico de Multas, Gerenciador de incidentes de ruas e Serviço de Recebimento instantâneo de mensagens.
-Gerente de Produtos: Carlos Fialho.               
-Localização: São Paulo, SP - Brasil
+#### Skytef, 
+São Paulo/SP — Programador Java
+2013 - 2014
+Desenvolvedor Full Stack Java, IDE de trabalho Eclipse. Framework e Ferramentas: Hibernate ORM, MySql, J2EE, JSF, Primefaces, MVC e Subversion SVN. 
 
-##### Analista Programador Java 
-Empresa: SKYTEF (2013 - 2014, 1 ano).
-Principais atividades: Desenvolvimento Java EE com JSF, Primefaces, JPA, Hibernate e Mysql Server. 
-Gerente de desenvolvimento: Orlando Palermo.
-Localização: São Paulo, SP - Brasil
+#### Vector Two Tecnology, 
+São Paulo— Programador Java
+2012 - 2013
+Desenvolvedor Java, IDE de trabalho Eclipse. Framework e Ferramentas: MySql, J2EE, JSP,Sencha ExtJS 4, MVC e Subversion SVN. 
 
-##### Programador Java 
-Empresa: VECTOR TWO TECNOLOGY (2012 - 2013, 18 meses).
-Principais atividades: Desenvolvimento Java EE com JSP, Sencha JS  com Mysql Server.
-Coordenador de projetos: Émerson Carvalho.
-Localização: São Paulo, SP - Brasil
+#### Daci Software, 
+São Paulo/SP— Programador Android
+2010 - 2012
+Desenvolvedor Java, IDE de trabalho Eclipse. Framework e Ferramentas: SQLite, MVC e Subversion SVN.
 
-##### Programador Java / Android
-Empresa: Daci Software (2011 - 2012, 1 ano).
-Gerente de TI: Claudinei Nóbrega.
-Localização: São Paulo, SP - Brasil
+## FORMAÇÃO
 
-##### Analista de Suporte
-Empresa: Daci Software (2010 - 2011, 1 ano).
-Localização: Extrema, MG - Brasil
+#### Tecnólogo em Segurança da  Informação.
+Universidade Nove de Julho, São Paulo/SP 
+Janeiro de  2016 - Dezembro de 2018
 
-### FORMAÇÃO ACADÊMICA
-Bacharel em Sistemas de Informação
-Universidade Nove de Julho - UNINOVE
-a concluir em  Dezembro de 2019.
+#### Bacharel em Sistemas de Informação.
+Universidade Nove de Julho, São Paulo/SP 
+Janeiro de  2016 - Dezembro de 2019
 
-### TECNOLOGIAS
-Linguagens de Programação: Java, JavaScript(React-Native ) ,Kotlin, C# e PHP.
-Análise e Desenvolvimento: UML
-Desenvolvimento Ágil: SCRUM.
-Padrão de Projetos (Design Pattern): Conceitos de MVC.
-Linguagens de marcação: HTML, DHTML e CSS.
-Bancos de dados: MySQL, SQLite, Firebase e MongoDB, PL-SQL.
-Controladores de Versão: Git e SVN.
-Office: OpenOffice e Microsoft Office.
-Sistemas operacionais: Linux e Windows.
+## COMPETÊNCIAS
 
-### IDIOMAS
-Português brasileiro (nativo).
+Java, Android, React-Native, Javascript, NodeJS, ORM, MySQL, Oracle SQL, SQLite, UML, SVN e Git.
+
+## IDIOMAS
+
+Português nativo.
 Inglês intermediário.
 
-### CURSOS COMPLEMENTARES
-Java Básico - Loiane Training  (2017 - 30h).
-Oficina de Prática e conversação da língua Inglesa na Uninove (2016 - 80h).
-Oficina de Gerenciamento de Projetos com MS Project na Uninove (conclusão 2016 - 40h).
-Oficina de MS Excel Avançado na Uninove (2016 - 40h).
-Google Android: "Quase tudo é possível" (2011 - 20h).
-Android Básico (2011 - 40h).
-Java - Curso preparatório para JCP (2010 - 60h).
-Administradores de Redes Linux LPI 201 e 202  -  (2008 - 80h).
-Administrador de Sistemas Linux LPI - 101 e 102 - ( 2008 - 80h).
+
+
 
