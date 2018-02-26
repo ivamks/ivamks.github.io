@@ -4,22 +4,9 @@ description: Desenvolvedor Full Stack
 email: ivamks@gmail.com
 twitter_username: ivamks
 github_username: ivamks
-
-# Setup
-baseurl:      ""
-paginate:     1
-locale:       "br"
 show_downloads: false
 
 # About/contact
 author:
   name:       Ivam Santos
   url:        https://www.linkedin.com/in/ivamsantos
-
-# Acadêmico
-source "https://github.com/ivamks/academico"
-gem "github-pages"
-
-#Others
-markdown: kramdown
-show_downloads: true
