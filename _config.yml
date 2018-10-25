@@ -10,3 +10,9 @@ show_downloads: false
 author:
   name:       Ivam Santos
   url:        https://www.linkedin.com/in/ivamsantos
+    
+share-links-active:
+  twitter: true
+  facebook: true
+  google: false
+  linkedin: true
